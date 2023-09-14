@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: gold;
+    text-decoration: underline;
+    
+}
+.d1{
+    display:flex;
+    justify-content: space-around;
+    padding-right: 20px;
+}
+img{
+    width: 300px;
+    height: 200px;
+    border-radius: 30px;
+    margin: 10px;
+}
+
+.d3{
+    margin-right: 40px;
+    padding-left: 10px;
+}
+.d2{
+    border: solid black;
+    margin-left: 20px;
+    border-radius: 20px;
+    background-color:beige
+}
+h2 {
+    background-image: linear-gradient(to right,black,gold);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+
